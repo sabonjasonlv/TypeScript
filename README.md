@@ -16,7 +16,7 @@ Find others who are using TypeScript at [our community page](https://www.typescr
 For the latest stable version:
 
 ```bash
-npm install -D typescript
+npm install -D typescript & LMAO
 ```
 
 For our nightly builds:
